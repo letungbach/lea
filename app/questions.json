@@ -1,0 +1,1050 @@
+{
+  "math": [
+    {
+      "id": 1,
+      "type": "math",
+      "q": "[MATH] Câu 1",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 2,
+      "type": "math",
+      "q": "[MATH] Câu 2",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 3,
+      "type": "math",
+      "q": "[MATH] Câu 3",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 4,
+      "type": "math",
+      "q": "[MATH] Câu 4",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 5,
+      "type": "math",
+      "q": "[MATH] Câu 5",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 6,
+      "type": "math",
+      "q": "[MATH] Câu 6",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 7,
+      "type": "math",
+      "q": "[MATH] Câu 7",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 8,
+      "type": "math",
+      "q": "[MATH] Câu 8",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 9,
+      "type": "math",
+      "q": "[MATH] Câu 9",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 10,
+      "type": "math",
+      "q": "[MATH] Câu 10",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 11,
+      "type": "math",
+      "q": "[MATH] Câu 11",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 12,
+      "type": "math",
+      "q": "[MATH] Câu 12",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 13,
+      "type": "math",
+      "q": "[MATH] Câu 13",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 14,
+      "type": "math",
+      "q": "[MATH] Câu 14",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 15,
+      "type": "math",
+      "q": "[MATH] Câu 15",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 16,
+      "type": "math",
+      "q": "[MATH] Câu 16",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 17,
+      "type": "math",
+      "q": "[MATH] Câu 17",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 18,
+      "type": "math",
+      "q": "[MATH] Câu 18",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 19,
+      "type": "math",
+      "q": "[MATH] Câu 19",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 20,
+      "type": "math",
+      "q": "[MATH] Câu 20",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    }
+  ],
+  "vi": [
+    {
+      "id": 100,
+      "type": "vi",
+      "q": "[VI] Câu 1",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 101,
+      "type": "vi",
+      "q": "[VI] Câu 2",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 102,
+      "type": "vi",
+      "q": "[VI] Câu 3",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 103,
+      "type": "vi",
+      "q": "[VI] Câu 4",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 104,
+      "type": "vi",
+      "q": "[VI] Câu 5",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 105,
+      "type": "vi",
+      "q": "[VI] Câu 6",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 106,
+      "type": "vi",
+      "q": "[VI] Câu 7",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 107,
+      "type": "vi",
+      "q": "[VI] Câu 8",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 108,
+      "type": "vi",
+      "q": "[VI] Câu 9",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 109,
+      "type": "vi",
+      "q": "[VI] Câu 10",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 110,
+      "type": "vi",
+      "q": "[VI] Câu 11",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 111,
+      "type": "vi",
+      "q": "[VI] Câu 12",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 112,
+      "type": "vi",
+      "q": "[VI] Câu 13",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 113,
+      "type": "vi",
+      "q": "[VI] Câu 14",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 114,
+      "type": "vi",
+      "q": "[VI] Câu 15",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 115,
+      "type": "vi",
+      "q": "[VI] Câu 16",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 116,
+      "type": "vi",
+      "q": "[VI] Câu 17",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 117,
+      "type": "vi",
+      "q": "[VI] Câu 18",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 118,
+      "type": "vi",
+      "q": "[VI] Câu 19",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 119,
+      "type": "vi",
+      "q": "[VI] Câu 20",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    }
+  ],
+  "eng": [
+    {
+      "id": 200,
+      "type": "eng",
+      "q": "[ENG] Câu 1",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 201,
+      "type": "eng",
+      "q": "[ENG] Câu 2",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 202,
+      "type": "eng",
+      "q": "[ENG] Câu 3",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 203,
+      "type": "eng",
+      "q": "[ENG] Câu 4",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 204,
+      "type": "eng",
+      "q": "[ENG] Câu 5",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 205,
+      "type": "eng",
+      "q": "[ENG] Câu 6",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 206,
+      "type": "eng",
+      "q": "[ENG] Câu 7",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 207,
+      "type": "eng",
+      "q": "[ENG] Câu 8",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 208,
+      "type": "eng",
+      "q": "[ENG] Câu 9",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 209,
+      "type": "eng",
+      "q": "[ENG] Câu 10",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 210,
+      "type": "eng",
+      "q": "[ENG] Câu 11",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 211,
+      "type": "eng",
+      "q": "[ENG] Câu 12",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 212,
+      "type": "eng",
+      "q": "[ENG] Câu 13",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 213,
+      "type": "eng",
+      "q": "[ENG] Câu 14",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 214,
+      "type": "eng",
+      "q": "[ENG] Câu 15",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 215,
+      "type": "eng",
+      "q": "[ENG] Câu 16",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 216,
+      "type": "eng",
+      "q": "[ENG] Câu 17",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 217,
+      "type": "eng",
+      "q": "[ENG] Câu 18",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 218,
+      "type": "eng",
+      "q": "[ENG] Câu 19",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 219,
+      "type": "eng",
+      "q": "[ENG] Câu 20",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    }
+  ],
+  "logic": [
+    {
+      "id": 300,
+      "type": "logic",
+      "q": "[LOGIC] Câu 1",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 301,
+      "type": "logic",
+      "q": "[LOGIC] Câu 2",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 302,
+      "type": "logic",
+      "q": "[LOGIC] Câu 3",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 303,
+      "type": "logic",
+      "q": "[LOGIC] Câu 4",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 304,
+      "type": "logic",
+      "q": "[LOGIC] Câu 5",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 305,
+      "type": "logic",
+      "q": "[LOGIC] Câu 6",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 306,
+      "type": "logic",
+      "q": "[LOGIC] Câu 7",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 307,
+      "type": "logic",
+      "q": "[LOGIC] Câu 8",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 308,
+      "type": "logic",
+      "q": "[LOGIC] Câu 9",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 309,
+      "type": "logic",
+      "q": "[LOGIC] Câu 10",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 310,
+      "type": "logic",
+      "q": "[LOGIC] Câu 11",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 311,
+      "type": "logic",
+      "q": "[LOGIC] Câu 12",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 312,
+      "type": "logic",
+      "q": "[LOGIC] Câu 13",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 313,
+      "type": "logic",
+      "q": "[LOGIC] Câu 14",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 314,
+      "type": "logic",
+      "q": "[LOGIC] Câu 15",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 315,
+      "type": "logic",
+      "q": "[LOGIC] Câu 16",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 316,
+      "type": "logic",
+      "q": "[LOGIC] Câu 17",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 317,
+      "type": "logic",
+      "q": "[LOGIC] Câu 18",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 318,
+      "type": "logic",
+      "q": "[LOGIC] Câu 19",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    },
+    {
+      "id": 319,
+      "type": "logic",
+      "q": "[LOGIC] Câu 20",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": "A",
+      "exp": "Giải thích chi tiết"
+    }
+  ]
+}
