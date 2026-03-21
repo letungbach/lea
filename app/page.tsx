@@ -642,7 +642,7 @@ export default function Page() {
               return (
                 <div key={i} className={cardClass}>
                   <div className="q-number">Câu {i + 1}</div>
-                  <p className="q-text">{q.q}</p>
+                  <p className="q-text">{q.q.replace(/^\[.*?\]\s*/, '')}</p>
 
                   <div className="options-grid">
                     {q.options.map((opt: string, j: number) => {
