@@ -1,330 +1,330 @@
 {
-"math": [
-{
-"id": 1,
-"type": "math",
-"q": "[MATH] Một hình lập phương có cạnh 5cm. Nếu cạnh của hình lập phương gấp lên 2 lần thì diện tích xung quanh của nó gấp lên bao nhiêu lần?",
-"options": ["2 lần", "4 lần", "8 lần", "16 lần"],
-"a": "B",
-"exp": "Diện tích xung quanh hình lập phương = (cạnh x cạnh) x 4. Khi cạnh gấp lên 2 lần, diện tích sẽ gấp lên 2 x 2 = 4 lần."
-},
-{
-"id": 2,
-"type": "math",
-"q": "[MATH] Kết quả của phép tính: 15,5 : 0,25 là:",
-"options": ["3,875", "62", "6,2", "38,75"],
-"a": "B",
-"exp": "Chia một số cho 0,25 tương đương với nhân số đó với 4. 15,5 x 4 = 62."
-},
-{
-"id": 3,
-"type": "math",
-"q": "[MATH] Một cửa hàng bán một chiếc xe đạp với giá 2.000.000 đồng. Sau đó cửa hàng giảm giá 15%. Hỏi giá chiếc xe đạp sau khi giảm là bao nhiêu?",
-"options": ["1.700.000 đồng", "1.850.000 đồng", "300.000 đồng", "1.750.000 đồng"],
-"a": "A",
-"exp": "Số tiền giảm là: 2.000.000 x 15% = 300.000 đồng. Giá sau giảm: 2.000.000 - 300.000 = 1.700.000 đồng."
-},
-{
-"id": 4,
-"type": "math",
-"q": "[MATH] Một ô tô đi quãng đường 120km trong 2 giờ 30 phút. Vận tốc của ô tô là:",
-"options": ["60 km/giờ", "50 km/giờ", "48 km/giờ", "45 km/giờ"],
-"a": "C",
-"exp": "Đổi 2 giờ 30 phút = 2,5 giờ. Vận tốc = Quãng đường : Thời gian = 120 : 2,5 = 48 km/giờ."
-},
-{
-"id": 5,
-"type": "math",
-"q": "[MATH] Diện tích toàn phần của hình hộp chữ nhật có chiều dài 6dm, chiều rộng 4dm và chiều cao 3dm là:",
-"options": ["108 dm2", "48 dm2", "60 dm2", "72 dm2"],
-"a": "A",
-"exp": "S xung quanh = (6 + 4) x 2 x 3 = 60 dm2. S hai mặt đáy = 6 x 4 x 2 = 48 dm2. S toàn phần = 60 + 48 = 108 dm2."
-},
-{
-"id": 6,
-"type": "math",
-"q": "[MATH] Số thập phân 'Hai mươi lăm đơn vị, tám phần trăm' được viết là:",
-"options": ["25,8", "25,08", "25,008", "2,58"],
-"a": "B",
-"exp": "Tám phần trăm ở hàng phần trăm (chữ số thứ 2 sau dấu phẩy), vậy viết là 25,08."
-},
-{
-"id": 7,
-"type": "math",
-"q": "[MATH] Tìm x, biết: x : 1,2 = 5,5 + 4,5",
-"options": ["12", "1,2", "10", "120"],
-"a": "A",
-"exp": "x : 1,2 = 10 =\> x = 10 x 1,2 = 12."
-},
-{
-"id": 8,
-"type": "math",
-"q": "[MATH] Một hình lập phương có diện tích toàn phần là 150 cm2. Thể tích của hình lập phương đó là:",
-"options": ["25 cm3", "125 cm3", "150 cm3", "100 cm3"],
-"a": "B",
-"exp": "Diện tích 1 mặt: 150 : 6 = 25 cm2. Cạnh hình lập phương là 5cm (vì 5x5=25). Thể tích = 5 x 5 x 5 = 125 cm3."
-},
-{
-"id": 9,
-"type": "math",
-"q": "[MATH] Biểu đồ hình quạt cho biết 25% học sinh thích đá bóng. Nếu khối 5 có 200 học sinh thì có bao nhiêu em thích đá bóng?",
-"options": ["25 em", "40 em", "50 em", "100 em"],
-"a": "C",
-"exp": "Số học sinh thích đá bóng là: 200 x 25 : 100 = 50 em."
-},
-{
-"id": 10,
-"type": "math",
-"q": "[MATH] Đổi 2m3 50dm3 sang đơn vị dm3:",
-"options": ["250 dm3", "2050 dm3", "2500 dm3", "20050 dm3"],
-"a": "B",
-"exp": "2m3 = 2000 dm3. Vậy 2m3 50dm3 = 2000 + 50 = 2050 dm3."
-}
-],
-"vi": [
-{
-"id": 100,
-"type": "vi",
-"q": "[VI] Trong câu: 'Mặc dù trời mưa to nhưng em vẫn đi học đúng giờ.', cặp quan hệ từ biểu thị quan hệ gì?",
-"options": ["Nguyên nhân - Kết quả", "Điều kiện - Kết quả", "Tương phản", "Tăng tiến"],
-"a": "C",
-"exp": "Cặp từ 'Mặc dù... nhưng...' dùng để nối các vế câu có quan hệ đối lập, tương phản nhau."
-},
-{
-"id": 101,
-"type": "vi",
-"q": "[VI] Từ nào dưới đây đồng nghĩa với từ 'Hòa bình'?",
-"options": ["Thái bình", "Hiền lành", "Lặng lẽ", "Yên tĩnh"],
-"a": "A",
-"exp": "'Thái bình' và 'Hòa bình' đều chỉ trạng thái không có chiến tranh, yên ổn."
-},
-{
-"id": 102,
-"type": "vi",
-"q": "[VI] Từ 'đậu' trong 'Con chim đậu trên cành' và 'Mẹ mua xôi đậu' có quan hệ gì?",
-"options": ["Từ đồng nghĩa", "Từ nhiều nghĩa", "Từ đồng âm", "Từ trái nghĩa"],
-"a": "C",
-"exp": "Đây là từ đồng âm vì phát âm giống nhau nhưng nghĩa hoàn toàn khác nhau (hành động đứng lại vs tên một loại hạt)."
-},
-{
-"id": 103,
-"type": "vi",
-"q": "[VI] Xác định chủ ngữ trong câu: 'Dưới ánh trăng, dòng sông trở nên lung linh huyền ảo.'",
-"options": ["Dưới ánh trăng", "Dòng sông", "Lung linh huyền ảo", "Trở nên lung linh"],
-"a": "B",
-"exp": "'Dưới ánh trăng' là trạng ngữ. 'Dòng sông' là đối tượng được nói đến nên là chủ ngữ."
-},
-{
-"id": 104,
-"type": "vi",
-"q": "[VI] Từ 'ăn' trong trường hợp nào sau đây được dùng với nghĩa chuyển?",
-"options": ["Cả nhà ăn cơm", "Tàu ăn hàng ở cảng", "Bé ăn bánh", "Cá ăn mồi"],
-"a": "B",
-"exp": "'Tàu ăn hàng' nghĩa là tiếp nhận hàng hóa, không phải nghĩa gốc là đưa thức ăn vào cơ thể."
-},
-{
-"id": 105,
-"type": "vi",
-"q": "[VI] Câu nào sau đây là câu ghép?",
-"options": ["Lan và Huệ là đôi bạn thân.", "Vì trời mưa nên đường trơn.", "Mùa xuân, trăm hoa đua nở.", "Em đi học về rồi đi chơi."],
-"a": "B",
-"exp": "Câu B có hai vế câu nối với nhau bằng cặp quan hệ từ 'Vì... nên...', mỗi vế có đủ cụm C-V."
-},
-{
-"id": 106,
-"type": "vi",
-"q": "[VI] Từ 'Tổ quốc' đồng nghĩa với từ nào sau đây?",
-"options": ["Đất nước", "Quốc gia", "Giang sơn", "Tất cả các đáp án trên"],
-"a": "D",
-"exp": "Cả ba từ 'Đất nước', 'Quốc gia', 'Giang sơn' đều có nghĩa tương đồng với 'Tổ quốc'."
-},
-{
-"id": 107,
-"type": "vi",
-"q": "[VI] Trong các từ sau, từ nào là đại từ xưng hô?",
-"options": ["Học sinh", "Thông minh", "Chúng tôi", "Đi học"],
-"a": "C",
-"exp": "'Chúng tôi' là đại từ dùng để chỉ người nói trong giao tiếp."
-},
-{
-"id": 108,
-"type": "vi",
-"q": "[VI] Nhóm từ nào sau đây gồm các từ láy?",
-"options": ["Mềm mại, xinh xắn", "Học hành, nhà cửa", "Cây cối, núi non", "Châm chọc, nhỏ nhẹ"],
-"a": "A",
-"exp": "'Mềm mại' và 'xinh xắn' là các từ có sự lặp lại về âm hoặc vần giữa các tiếng."
-},
-{
-"id": 109,
-"type": "vi",
-"q": "[VI] Điền từ phù hợp vào câu thành ngữ: '... chung sức đồng lòng.'",
-"options": ["Muôn người", "Mọi người", "Chúng ta", "Toàn dân"],
-"a": "A",
-"exp": "Thành ngữ đúng là: 'Muôn người như một, chung sức đồng lòng'."
-}
-],
-"eng": [
-{
-"id": 200,
-"type": "eng",
-"q": "[ENG] Choose the word that has the underlined part pronounced differently: 'h\<u\>ou\</u\>se', 'm\<u\>ou\</u\>th', 'sh\<u\>ou\</u\>ld', 'ab\<u\>ou\</u\>t'.",
-"options": ["house", "mouth", "should", "about"],
-"a": "C",
-"exp": "'Should' is pronounced /ʊ/, while the others are pronounced /aʊ/."
-},
-{
-"id": 201,
-"type": "eng",
-"q": "[ENG] My sister \_\_\_\_\_ her homework every evening.",
-"options": ["do", "does", "did", "doing"],
-"a": "B",
-"exp": "Subject 'My sister' (she) takes the verb with -s/es in the present simple tense."
-},
-{
-"id": 202,
-"type": "eng",
-"q": "[ENG] What's the matter \_\_\_\_\_ you? - I have a headache.",
-"options": ["with", "for", "to", "at"],
-"a": "A",
-"exp": "The structure is 'What's the matter with you?' (Có chuyện gì với bạn vậy?)"
-},
-{
-"id": 203,
-"type": "eng",
-"q": "[ENG] Find the odd one out: 'Summer', 'Winter', 'Cloudy', 'Spring'.",
-"options": ["Summer", "Winter", "Cloudy", "Spring"],
-"a": "C",
-"exp": "'Cloudy' is an adjective describing weather, others are seasons."
-},
-{
-"id": 204,
-"type": "eng",
-"q": "[ENG] How \_\_\_\_\_ do you go to the library? - Twice a month.",
-"options": ["many", "much", "often", "long"],
-"a": "C",
-"exp": "'How often' is used to ask about frequency."
-},
-{
-"id": 205,
-"type": "eng",
-"q": "[ENG] I'm going to \_\_\_\_\_ Ha Long Bay this summer vacation.",
-"options": ["visit", "visiting", "visited", "visits"],
-"a": "A",
-"exp": "'Be going to + V(infinitive)' is used to talk about future plans."
-},
-{
-"id": 206,
-"type": "eng",
-"q": "[ENG] Where \_\_\_\_\_ you yesterday? - I was at home.",
-"options": ["are", "is", "was", "were"],
-"a": "D",
-"exp": "The subject is 'you' and the time is 'yesterday', so we use 'were'."
-},
-{
-"id": 207,
-"type": "eng",
-"q": "[ENG] These oranges are \_\_\_\_\_ than those apples.",
-"options": ["expensive", "more expensive", "expensiver", "most expensive"],
-"a": "B",
-"exp": "Comparative form for long adjectives is 'more + adjective + than'."
-},
-{
-"id": 208,
-"type": "eng",
-"q": "[ENG] Choose the correct sentence:",
-"options": ["I like play football.", "I like playing football.", "I like plays football.", "I likes playing football."],
-"a": "B",
-"exp": "After 'like', we use V-ing (playing)."
-},
-{
-"id": 209,
-"type": "eng",
-"q": "[ENG] Which is the highest mountain \_\_\_\_\_ the world?",
-"options": ["on", "at", "in", "of"],
-"a": "C",
-"exp": "We use the preposition 'in' with 'the world'."
-}
-],
-"logic": [
-{
-"id": 300,
-"type": "logic",
-"q": "[LOGIC] Tìm số tiếp theo của dãy số: 1, 4, 9, 16, 25, ...",
-"options": ["30", "36", "49", "35"],
-"a": "B",
-"exp": "Dãy số là bình phương của các số tự nhiên liên tiếp: 1^2, 2^2, 3^2, 4^2, 5^2. Số tiếp theo là 6^2 = 36."
-},
-{
-"id": 301,
-"type": "logic",
-"q": "[LOGIC] Nếu tất cả các con chim đều có cánh, và con vẹt là một con chim, thì:",
-"options": ["Con vẹt có cánh", "Con vẹt không có cánh", "Con vẹt biết nói", "Tất cả đều sai"],
-"a": "A",
-"exp": "Đây là suy luận bắc cầu: Chim -\> có cánh; Vẹt -\> Chim =\> Vẹt -\> có cánh."
-},
-{
-"id": 302,
-"type": "logic",
-"q": "[LOGIC] Tìm từ khác loại: Gà, Vịt, Chó, Ngan.",
-"options": ["Gà", "Vịt", "Chó", "Ngan"],
-"a": "C",
-"exp": "Gà, Vịt, Ngan thuộc nhóm gia cầm (có 2 chân, có lông vũ). Chó thuộc nhóm gia súc (4 chân)."
-},
-{
-"id": 303,
-"type": "logic",
-"q": "[LOGIC] Trong một cuộc chạy đua, nếu bạn vượt qua người thứ nhì, bạn sẽ đứng thứ mấy?",
-"options": ["Thứ nhất", "Thứ nhì", "Thứ ba", "Chót"],
-"a": "B",
-"exp": "Nếu bạn vượt người thứ nhì, bạn sẽ chiếm vị trí của họ, tức là bạn đứng thứ nhì."
-},
-{
-"id": 304,
-"type": "logic",
-"q": "[LOGIC] Kim giờ đồng hồ chỉ số 3, kim phút chỉ số 12. Sau 15 phút nữa, hai kim tạo thành góc bao nhiêu độ?",
-"options": ["0 độ", "90 độ", "Khác 0 và 90 độ", "180 độ"],
-"a": "C",
-"exp": "Sau 15 phút, kim phút chỉ số 3, nhưng kim giờ đã nhích đi một chút so với số 3, nên góc không thể là 0 độ."
-},
-{
-"id": 305,
-"type": "logic",
-"q": "[LOGIC] Một gia đình có 5 người con trai, mỗi người con trai có 1 người em gái. Hỏi gia đình đó có mấy người con?",
-"options": ["10 người", "6 người", "11 người", "5 người"],
-"a": "B",
-"exp": "5 người con trai cùng chung 1 người em gái út, vậy có 5 + 1 = 6 người con."
-},
-{
-"id": 306,
-"type": "logic",
-"q": "[LOGIC] Tìm số còn thiếu trong dấu ?: 2, 6, 12, 20, ?, 42",
-"options": ["24", "28", "30", "32"],
-"a": "C",
-"exp": "Quy luật: +4, +6, +8, +10, +12. 20 + 10 = 30."
-},
-{
-"id": 307,
-"type": "logic",
-"q": "[LOGIC] Nếu A cao hơn B, B cao hơn C, D thấp hơn C thì ai thấp nhất?",
-"options": ["A", "B", "C", "D"],
-"a": "D",
-"exp": "Thứ tự chiều cao: A \> B \> C \> D. Vậy D thấp nhất."
-},
-{
-"id": 308,
-"type": "logic",
-"q": "[LOGIC] Hình nào tiếp theo: Hình tròn, Hình tam giác, Hình vuông, Hình tròn, Hình tam giác, ...",
-"options": ["Hình tròn", "Hình vuông", "Hình lục giác", "Hình thoi"],
-"a": "B",
-"exp": "Chu kỳ lặp lại là: Tròn - Tam giác - Vuông."
-},
-{
-"id": 309,
-"type": "logic",
-"q": "[LOGIC] Có 3 hòm kín chứa: cam, táo, và hỗn hợp cam lẫn táo. Cả 3 hòm đều bị dán nhãn sai. Bạn chỉ được mở 1 hòm lấy 1 quả duy nhất để xác định đúng nhãn cho cả 3 hòm. Bạn nên chọn hòm nào?",
-"options": ["Hòm dán nhãn Cam", "Hòm dán nhãn Táo", "Hòm dán nhãn Hỗn hợp", "Hòm nào cũng được"],
-"a": "C",
-"exp": "Vì các nhãn đều sai, hòm nhãn 'Hỗn hợp' chắc chắn chỉ chứa 1 loại quả (cam hoặc táo). Từ đó suy luận ra các hòm còn lại."
-}
-]
+  "math": [
+    {
+      "id": 1,
+      "type": "math",
+      "q": "[MATH] Một hình lập phương có cạnh 5cm. Nếu cạnh của hình lập phương gấp lên 2 lần thì diện tích xung quanh của nó gấp lên bao nhiêu lần?",
+      "options": ["2 lần", "4 lần", "8 lần", "16 lần"],
+      "a": "B",
+      "exp": "Diện tích xung quanh hình lập phương = (cạnh x cạnh) x 4. Khi cạnh gấp lên 2 lần, diện tích sẽ gấp lên 2 x 2 = 4 lần."
+    },
+    {
+      "id": 2,
+      "type": "math",
+      "q": "[MATH] Kết quả của phép tính: 15,5 : 0,25 là:",
+      "options": ["3,875", "62", "6,2", "38,75"],
+      "a": "B",
+      "exp": "Chia một số cho 0,25 tương đương với nhân số đó với 4. 15,5 x 4 = 62."
+    },
+    {
+      "id": 3,
+      "type": "math",
+      "q": "[MATH] Một cửa hàng bán một chiếc xe đạp với giá 2.000.000 đồng. Sau đó cửa hàng giảm giá 15%. Hỏi giá chiếc xe đạp sau khi giảm là bao nhiêu?",
+      "options": ["1.700.000 đồng", "1.850.000 đồng", "300.000 đồng", "1.750.000 đồng"],
+      "a": "A",
+      "exp": "Số tiền giảm là: 2.000.000 x 15% = 300.000 đồng. Giá sau giảm: 2.000.000 - 300.000 = 1.700.000 đồng."
+    },
+    {
+      "id": 4,
+      "type": "math",
+      "q": "[MATH] Một ô tô đi quãng đường 120km trong 2 giờ 30 phút. Vận tốc của ô tô là:",
+      "options": ["60 km/giờ", "50 km/giờ", "48 km/giờ", "45 km/giờ"],
+      "a": "C",
+      "exp": "Đổi 2 giờ 30 phút = 2,5 giờ. Vận tốc = Quãng đường : Thời gian = 120 : 2,5 = 48 km/giờ."
+    },
+    {
+      "id": 5,
+      "type": "math",
+      "q": "[MATH] Diện tích toàn phần của hình hộp chữ nhật có chiều dài 6dm, chiều rộng 4dm và chiều cao 3dm là:",
+      "options": ["108 dm²", "48 dm²", "60 dm²", "72 dm²"],
+      "a": "A",
+      "exp": "S xung quanh = (6 + 4) x 2 x 3 = 60 dm². S hai mặt đáy = 6 x 4 x 2 = 48 dm². S toàn phần = 60 + 48 = 108 dm²."
+    },
+    {
+      "id": 6,
+      "type": "math",
+      "q": "[MATH] Số thập phân 'Hai mươi lăm đơn vị, tám phần trăm' được viết là:",
+      "options": ["25,8", "25,08", "25,008", "2,58"],
+      "a": "B",
+      "exp": "Tám phần trăm ở hàng phần trăm (chữ số thứ 2 sau dấu phẩy), vậy viết là 25,08."
+    },
+    {
+      "id": 7,
+      "type": "math",
+      "q": "[MATH] Tìm x, biết: x : 1,2 = 5,5 + 4,5",
+      "options": ["12", "1,2", "10", "120"],
+      "a": "A",
+      "exp": "x : 1,2 = 10 => x = 10 x 1,2 = 12."
+    },
+    {
+      "id": 8,
+      "type": "math",
+      "q": "[MATH] Một hình lập phương có diện tích toàn phần là 150 cm². Thể tích của hình lập phương đó là:",
+      "options": ["25 cm³", "125 cm³", "150 cm³", "100 cm³"],
+      "a": "B",
+      "exp": "Diện tích 1 mặt: 150 : 6 = 25 cm². Cạnh hình lập phương là 5cm (vì 5x5=25). Thể tích = 5 x 5 x 5 = 125 cm³."
+    },
+    {
+      "id": 9,
+      "type": "math",
+      "q": "[MATH] Biểu đồ hình quạt cho biết 25% học sinh thích đá bóng. Nếu khối 5 có 200 học sinh thì có bao nhiêu em thích đá bóng?",
+      "options": ["25 em", "40 em", "50 em", "100 em"],
+      "a": "C",
+      "exp": "Số học sinh thích đá bóng là: 200 x 25 : 100 = 50 em."
+    },
+    {
+      "id": 10,
+      "type": "math",
+      "q": "[MATH] Đổi 2m³ 50dm³ sang đơn vị dm³:",
+      "options": ["250 dm³", "2050 dm³", "2500 dm³", "20050 dm³"],
+      "a": "B",
+      "exp": "2m³ = 2000 dm³. Vậy 2m³ 50dm³ = 2000 + 50 = 2050 dm³."
+    }
+  ],
+  "vi": [
+    {
+      "id": 100,
+      "type": "vi",
+      "q": "[VI] Trong câu: 'Mặc dù trời mưa to nhưng em vẫn đi học đúng giờ.', cặp quan hệ từ biểu thị quan hệ gì?",
+      "options": ["Nguyên nhân - Kết quả", "Điều kiện - Kết quả", "Tương phản", "Tăng tiến"],
+      "a": "C",
+      "exp": "Cặp từ 'Mặc dù... nhưng...' dùng để nối các vế câu có quan hệ đối lập, tương phản nhau."
+    },
+    {
+      "id": 101,
+      "type": "vi",
+      "q": "[VI] Từ nào dưới đây đồng nghĩa với từ 'Hòa bình'?",
+      "options": ["Thái bình", "Hiền lành", "Lặng lẽ", "Yên tĩnh"],
+      "a": "A",
+      "exp": "'Thái bình' và 'Hòa bình' đều chỉ trạng thái không có chiến tranh, yên ổn."
+    },
+    {
+      "id": 102,
+      "type": "vi",
+      "q": "[VI] Từ 'đậu' trong 'Con chim đậu trên cành' và 'Mẹ mua xôi đậu' có quan hệ gì?",
+      "options": ["Từ đồng nghĩa", "Từ nhiều nghĩa", "Từ đồng âm", "Từ trái nghĩa"],
+      "a": "C",
+      "exp": "Đây là từ đồng âm vì phát âm giống nhau nhưng nghĩa hoàn toàn khác nhau (hành động đứng lại vs tên một loại hạt)."
+    },
+    {
+      "id": 103,
+      "type": "vi",
+      "q": "[VI] Xác định chủ ngữ trong câu: 'Dưới ánh trăng, dòng sông trở nên lung linh huyền ảo.'",
+      "options": ["Dưới ánh trăng", "Dòng sông", "Lung linh huyền ảo", "Trở nên lung linh"],
+      "a": "B",
+      "exp": "'Dưới ánh trăng' là trạng ngữ. 'Dòng sông' là đối tượng được nói đến nên là chủ ngữ."
+    },
+    {
+      "id": 104,
+      "type": "vi",
+      "q": "[VI] Từ 'ăn' trong trường hợp nào sau đây được dùng với nghĩa chuyển?",
+      "options": ["Cả nhà ăn cơm", "Tàu ăn hàng ở cảng", "Bé ăn bánh", "Cá ăn mồi"],
+      "a": "B",
+      "exp": "'Tàu ăn hàng' nghĩa là tiếp nhận hàng hóa, không phải nghĩa gốc là đưa thức ăn vào cơ thể."
+    },
+    {
+      "id": 105,
+      "type": "vi",
+      "q": "[VI] Câu nào sau đây là câu ghép?",
+      "options": ["Lan và Huệ là đôi bạn thân.", "Vì trời mưa nên đường trơn.", "Mùa xuân, trăm hoa đua nở.", "Em đi học về rồi đi chơi."],
+      "a": "B",
+      "exp": "Câu B có hai vế câu nối với nhau bằng cặp quan hệ từ 'Vì... nên...', mỗi vế có đủ cụm C-V."
+    },
+    {
+      "id": 106,
+      "type": "vi",
+      "q": "[VI] Từ 'Tổ quốc' đồng nghĩa với từ nào sau đây?",
+      "options": ["Đất nước", "Quốc gia", "Giang sơn", "Tất cả các đáp án trên"],
+      "a": "D",
+      "exp": "Cả ba từ 'Đất nước', 'Quốc gia', 'Giang sơn' đều có nghĩa tương đồng với 'Tổ quốc'."
+    },
+    {
+      "id": 107,
+      "type": "vi",
+      "q": "[VI] Trong các từ sau, từ nào là đại từ xưng hô?",
+      "options": ["Học sinh", "Thông minh", "Chúng tôi", "Đi học"],
+      "a": "C",
+      "exp": "'Chúng tôi' là đại từ dùng để chỉ người nói trong giao tiếp."
+    },
+    {
+      "id": 108,
+      "type": "vi",
+      "q": "[VI] Nhóm từ nào sau đây gồm các từ láy?",
+      "options": ["Mềm mại, xinh xắn", "Học hành, nhà cửa", "Cây cối, núi non", "Châm chọc, nhỏ nhẹ"],
+      "a": "A",
+      "exp": "'Mềm mại' và 'xinh xắn' là các từ có sự lặp lại về âm hoặc vần giữa các tiếng."
+    },
+    {
+      "id": 109,
+      "type": "vi",
+      "q": "[VI] Điền từ phù hợp vào câu thành ngữ: '... chung sức đồng lòng.'",
+      "options": ["Muôn người", "Mọi người", "Chúng ta", "Toàn dân"],
+      "a": "A",
+      "exp": "Thành ngữ đúng là: 'Muôn người như một, chung sức đồng lòng'."
+    }
+  ],
+  "eng": [
+    {
+      "id": 200,
+      "type": "eng",
+      "q": "[ENG] Choose the word that has the underlined part pronounced differently: 'h<u>ou</u>se', 'm<u>ou</u>th', 'sh<u>ou</u>ld', 'ab<u>ou</u>t'.",
+      "options": ["house", "mouth", "should", "about"],
+      "a": "C",
+      "exp": "'Should' is pronounced /ʊ/, while the others are pronounced /aʊ/."
+    },
+    {
+      "id": 201,
+      "type": "eng",
+      "q": "[ENG] My sister _____ her homework every evening.",
+      "options": ["do", "does", "did", "doing"],
+      "a": "B",
+      "exp": "Subject 'My sister' (she) takes the verb with -s/es in the present simple tense."
+    },
+    {
+      "id": 202,
+      "type": "eng",
+      "q": "[ENG] What's the matter _____ you? - I have a headache.",
+      "options": ["with", "for", "to", "at"],
+      "a": "A",
+      "exp": "The structure is 'What's the matter with you?' (Có chuyện gì với bạn vậy?)"
+    },
+    {
+      "id": 203,
+      "type": "eng",
+      "q": "[ENG] Find the odd one out: 'Summer', 'Winter', 'Cloudy', 'Spring'.",
+      "options": ["Summer", "Winter", "Cloudy", "Spring"],
+      "a": "C",
+      "exp": "'Cloudy' is an adjective describing weather, while the others are seasons."
+    },
+    {
+      "id": 204,
+      "type": "eng",
+      "q": "[ENG] How _____ do you go to the library? - Twice a month.",
+      "options": ["many", "much", "often", "long"],
+      "a": "C",
+      "exp": "'How often' is used to ask about frequency."
+    },
+    {
+      "id": 205,
+      "type": "eng",
+      "q": "[ENG] I'm going to _____ Ha Long Bay this summer vacation.",
+      "options": ["visit", "visiting", "visited", "visits"],
+      "a": "A",
+      "exp": "'Be going to + V (infinitive)' is used to talk about future plans."
+    },
+    {
+      "id": 206,
+      "type": "eng",
+      "q": "[ENG] Where _____ you yesterday? - I was at home.",
+      "options": ["are", "is", "was", "were"],
+      "a": "D",
+      "exp": "The subject is 'you' and the time is 'yesterday', so we use 'were'."
+    },
+    {
+      "id": 207,
+      "type": "eng",
+      "q": "[ENG] These oranges are _____ than those apples.",
+      "options": ["expensive", "more expensive", "expensiver", "most expensive"],
+      "a": "B",
+      "exp": "Comparative form for long adjectives is 'more + adjective + than'."
+    },
+    {
+      "id": 208,
+      "type": "eng",
+      "q": "[ENG] Choose the correct sentence:",
+      "options": ["I like play football.", "I like playing football.", "I like plays football.", "I likes playing football."],
+      "a": "B",
+      "exp": "After 'like', we use V-ing (playing)."
+    },
+    {
+      "id": 209,
+      "type": "eng",
+      "q": "[ENG] Which is the highest mountain _____ the world?",
+      "options": ["on", "at", "in", "of"],
+      "a": "C",
+      "exp": "We use the preposition 'in' with 'the world'."
+    }
+  ],
+  "logic": [
+    {
+      "id": 300,
+      "type": "logic",
+      "q": "[LOGIC] Tìm số tiếp theo của dãy số: 1, 4, 9, 16, 25, ...",
+      "options": ["30", "36", "49", "35"],
+      "a": "B",
+      "exp": "Dãy số là bình phương của các số tự nhiên liên tiếp: 1², 2², 3², 4², 5². Số tiếp theo là 6² = 36."
+    },
+    {
+      "id": 301,
+      "type": "logic",
+      "q": "[LOGIC] Nếu tất cả các con chim đều có cánh, và con vẹt là một con chim, thì:",
+      "options": ["Con vẹt có cánh", "Con vẹt không có cánh", "Con vẹt biết nói", "Tất cả đều sai"],
+      "a": "A",
+      "exp": "Đây là suy luận bắc cầu: Chim -> có cánh; Vẹt -> Chim => Vẹt -> có cánh."
+    },
+    {
+      "id": 302,
+      "type": "logic",
+      "q": "[LOGIC] Tìm từ khác loại: Gà, Vịt, Chó, Ngan.",
+      "options": ["Gà", "Vịt", "Chó", "Ngan"],
+      "a": "C",
+      "exp": "Gà, Vịt, Ngan thuộc nhóm gia cầm (có 2 chân, có lông vũ). Chó thuộc nhóm gia súc (4 chân)."
+    },
+    {
+      "id": 303,
+      "type": "logic",
+      "q": "[LOGIC] Trong một cuộc chạy đua, nếu bạn vượt qua người thứ nhì, bạn sẽ đứng thứ mấy?",
+      "options": ["Thứ nhất", "Thứ nhì", "Thứ ba", "Chót"],
+      "a": "B",
+      "exp": "Nếu bạn vượt người thứ nhì, bạn sẽ chiếm vị trí của họ, tức là bạn đứng thứ nhì."
+    },
+    {
+      "id": 304,
+      "type": "logic",
+      "q": "[LOGIC] Kim giờ đồng hồ chỉ số 3, kim phút chỉ số 12. Sau 15 phút nữa, hai kim tạo thành góc bao nhiêu độ?",
+      "options": ["0 độ", "90 độ", "Khác 0 và 90 độ", "180 độ"],
+      "a": "C",
+      "exp": "Sau 15 phút, kim phút chỉ số 3, nhưng kim giờ đã nhích đi một chút so với số 3, nên góc không thể là 0 độ."
+    },
+    {
+      "id": 305,
+      "type": "logic",
+      "q": "[LOGIC] Một gia đình có 5 người con trai, mỗi người con trai có 1 người em gái. Hỏi gia đình đó có mấy người con?",
+      "options": ["10 người", "6 người", "11 người", "5 người"],
+      "a": "B",
+      "exp": "5 người con trai cùng chung 1 người em gái út, vậy có 5 + 1 = 6 người con."
+    },
+    {
+      "id": 306,
+      "type": "logic",
+      "q": "[LOGIC] Tìm số còn thiếu trong dấu ?: 2, 6, 12, 20, ?, 42",
+      "options": ["24", "28", "30", "32"],
+      "a": "C",
+      "exp": "Quy luật: +4, +6, +8, +10, +12. 20 + 10 = 30."
+    },
+    {
+      "id": 307,
+      "type": "logic",
+      "q": "[LOGIC] Nếu A cao hơn B, B cao hơn C, D thấp hơn C thì ai thấp nhất?",
+      "options": ["A", "B", "C", "D"],
+      "a": "D",
+      "exp": "Thứ tự chiều cao: A > B > C > D. Vậy D thấp nhất."
+    },
+    {
+      "id": 308,
+      "type": "logic",
+      "q": "[LOGIC] Hình nào tiếp theo: Hình tròn, Hình tam giác, Hình vuông, Hình tròn, Hình tam giác, ...",
+      "options": ["Hình tròn", "Hình vuông", "Hình lục giác", "Hình thoi"],
+      "a": "B",
+      "exp": "Chu kỳ lặp lại là: Tròn - Tam giác - Vuông."
+    },
+    {
+      "id": 309,
+      "type": "logic",
+      "q": "[LOGIC] Có 3 hòm kín chứa: cam, táo, và hỗn hợp cam lẫn táo. Cả 3 hòm đều bị dán nhãn sai. Bạn chỉ được mở 1 hòm lấy 1 quả duy nhất để xác định đúng nhãn cho cả 3 hòm. Bạn nên chọn hòm nào?",
+      "options": ["Hòm dán nhãn Cam", "Hòm dán nhãn Táo", "Hòm dán nhãn Hỗn hợp", "Hòm nào cũng được"],
+      "a": "C",
+      "exp": "Vì các nhãn đều sai, hòm nhãn 'Hỗn hợp' chắc chắn chỉ chứa 1 loại quả (cam hoặc táo). Từ đó suy luận ra các hòm còn lại."
+    }
+  ]
 }
